@@ -26,6 +26,7 @@
   Developed a cybersecurity project focusing on system integrity and compliance checks, including extending Checkmk with an Internet Compliance Check.
 
 ---
+<!-- 
 
 ### 🧰 **Tech Stack**
 
@@ -37,6 +38,7 @@
 - **Version Control:** Git, GitHub  
 
 ---
+-->
 
 ### 🎉 **Fun Fact**
 🦖 *My girlfriend loves dinosaurs, so I might build a dino-related project someday!*
