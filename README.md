@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Milan Tóth
 
 🚀 **Passionate about Software Development**  
-🎓 Currently working on multiple tech projects, including AI-driven apps, security enhancements, web applications, and a Pokémon Game AI based on evolutionary algorithms.  
+🎓 Currently working on multiple tech projects
 🌍 Always eager to learn, build, and contribute to the tech community.
 
 ---
