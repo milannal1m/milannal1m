@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Milan Tóth
+## 👋 Hi, I'm Milan
 
 🚀 **Passionate about Software Development** 
 
