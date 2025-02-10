@@ -38,10 +38,3 @@
 
 ### 🎉 **Fun Fact**
 🦖 *My girlfriend loves dinosaurs, so I might build a dino-related project someday!*
-
----
-
-### 📫 **Let's Connect!**
-
-- [LinkedIn](https://www.linkedin.com/in/milan-tóth-12414934a/)
-- [Email](mailto:milan.toth1793@gmail.com)  
