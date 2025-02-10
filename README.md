@@ -1,7 +1,8 @@
 ## 👋 Hi, I'm Milan Tóth
 
 🚀 **Passionate about Software Development**  
-🎓 Currently working on multiple tech projects
+🎓 Currently working on multiple tech projects.
+
 🌍 Always eager to learn, build, and contribute to the tech community.
 
 ---
