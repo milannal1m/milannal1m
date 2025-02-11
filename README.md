@@ -28,7 +28,7 @@
 ---
 
 <details>
-  <summary>🧰 **Tech Stack** (click to expand)</summary>
+  <summary><strong>🧰 Tech Stack (click to expand)</strong></summary>
 
   - **Languages:** Python, Swift, JavaScript, C, C++, Java, SQL  
   - **Tools & Frameworks:** TensorFlow, PyTorch, Docker, Checkmk, Conda, React.js  
@@ -46,4 +46,4 @@
 
 ---
 
-💬 *Feel free to reach out if you want to collaborate or just chat about tech!*  
+💬 *Feel free to reach out if you want to collaborate!*  
