@@ -10,11 +10,11 @@
 
 ### 🛠️ **What I'm Working On**
 
-- **📸 EOLVision**  
-  Built a CNN model for image classification, using datasets provided by my professor. Leveraged Conda for environment management.
+- **📸 Computer Vision**  
+  Built [EOLVision](https://github.com/milannal1m/EOLVision), a CNN model for end of line image classification.
 
 - **🍏 iOS Development**  
-  Developed **MealPlanner**, an iOS app designed to simplify meal planning. Currently working on adding synchronization features between devices using Docker Compose.
+  Developed [MealPlanner](https://github.com/milannal1m/MealPlanner), an iOS app designed to simplify meal planning. Currently working on adding synchronization features between devices using Docker Compose.
 
 - **🐉 Pokémon AI**  
   Developing a Pokémon AI for [VGC AI Competition 2025](https://gitlab.com/DracoStriker/pokemon-vgc-engine) using evolutionary algorithms to simulate and improve character behavior through generational evolution.
