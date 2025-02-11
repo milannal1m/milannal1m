@@ -17,7 +17,7 @@
   Developed [MealPlanner](https://github.com/milannal1m/MealPlanner), an iOS app designed to simplify meal planning. Currently working on adding synchronization features between devices using Docker Compose.  
 
 - **🐉 Pokémon AI**  
-  Developing a Pokémon AI for the [VGC AI Competition 2025](https://gitlab.com/DracoStriker/pokemon-vgc-engine) using evolutionary algorithms to improve battle behavior through generational evolution.  
+  Developing a Pokémon AI for the [VGC AI Competition 2025](https://gitlab.com/DracoStriker/pokemon-vgc-engine) using evolutionary algorithms to improve battle behavior through generational evolution. This project will become public after the competition.  
 
 - **🌐 Internal Switch Dashboard website**  
   Developed a website that allows users to edit switch port VLAN configurations via SNMP. Built with React for the frontend and Flask for the backend.  
