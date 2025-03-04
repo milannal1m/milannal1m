@@ -35,7 +35,7 @@
   - **iOS Development:** SwiftUI, Xcode, SwiftData  
   - **Machine Learning:** CNNs, Computer Vision, evolutionary algorithms  
   - **Project Management:** Notion, Wrike  
-  - **Version Control:** Git, GitHub  
+  - **Versioning:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white), GitHub  
 
 </details>
 
