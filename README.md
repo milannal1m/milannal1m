@@ -10,19 +10,19 @@
 
 ### 🛠️ **What I'm Working On**
 
-- **📸 EOLVision**  
+**📸 EOLVision**  
   Built [EOLVision](https://github.com/milannal1m/EOLVision), a CNN model for end-of-line image classification.  
 
-- **🍏 MealPlanner**  
+**🍏 MealPlanner**  
   Developed [MealPlanner](https://github.com/milannal1m/MealPlanner), an iOS app designed to simplify meal planning. Currently working on adding synchronization features between devices using Docker Compose.  
 
-- **🐉 EvoTrainer**  
+**🐉 EvoTrainer**  
   Developing an AI-powered Pokémon battle agent for the [VGC AI Competition 2025](https://gitlab.com/DracoStriker/pokemon-vgc-engine) using evolutionary algorithms to improve battle behavior through generational evolution. This project will become public after the competition.  
 
-- **🌐 Internal Switch Dashboard website**  
+**🌐 Internal Switch Dashboard website**  
   Developed a website that allows users to edit switch port VLAN configurations via SNMP. Built with React for the frontend and Flask for the backend.  
 
-- **🔒 Internal Cybersecurity Projects**  
+**🔒 Internal Cybersecurity Projects**  
   Developed a cybersecurity project focusing on system integrity and compliance checks, including extending Checkmk with an Internet Compliance Check.  
 
 ---
