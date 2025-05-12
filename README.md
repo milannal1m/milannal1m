@@ -40,6 +40,9 @@
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milannal1m&layout=compact&langs_count=6&theme=radical)
+
+
 ### 🎉 **Fun Fact**  
 🦖 *My girlfriend loves dinosaurs, so I might build a dino-related project someday!*  
 
