@@ -40,8 +40,12 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milannal1m&layout=compact&langs_count=6&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=milannal1m&show_icons=true&theme=tokyonight&text_color=ffffff&title_color=ffffff&bg_color=0d1117" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milannal1m&layout=compact&theme=tokyonight&text_color=ffffff&title_color=ffffff&bg_color=0d1117" height="180"/>
+</div>
 
+---
 
 ### 🎉 **Fun Fact**  
 🦖 *My girlfriend loves dinosaurs, so I might build a dino-related project someday!*  
