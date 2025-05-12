@@ -40,9 +40,11 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=milannal1m&show_icons=true&theme=tokyonight&text_color=ffffff&title_color=ffffff&bg_color=0d1117" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milannal1m&layout=compact&theme=tokyonight&text_color=ffffff&title_color=ffffff&bg_color=0d1117" height="180"/>
+<div style="display:flex; justify-content:center; gap:2rem; align-items:flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api?username=milannal1m&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=contribs&rank_icon=github&hide_border=true"
+       alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milannal1m&layout=compact&hide=shaderlab,hlsl&theme=dark&hide_border=true"
+       alt="Top Langs" />
 </div>
 
 ---
