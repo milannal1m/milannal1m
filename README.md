@@ -8,17 +8,19 @@
 
 ---
 
-### ⭐ **My favourite projects**
+### ⭐ **What I'm Working On**
 
 **📸 EOLVision**  
   Built [EOLVision](https://github.com/milannal1m/EOLVision), a CNN model for end-of-line image classification.  
 
 **🍏 MealPlanner**  
-  Developed [MealPlanner](https://github.com/milannal1m/MealPlanner), an iOS app designed to simplify meal planning. Currently working on adding  synchronization features ([Proof of Concept](https://github.com/milannal1m/MealPlannerSync)) between devices using Docker.  
+  Developed [MealPlanner](https://github.com/milannal1m/MealPlanner), an iOS app designed to simplify meal planning. Currently working on adding [synchronization features](https://github.com/milannal1m/MealPlannerSync) between devices using Docker.  
 
 **🐉 EvoTrainer**  
-  Developing an AI trained Pokémon battle agent for the [VGC AI Competition 2025](https://gitlab.com/DracoStriker/pokemon-vgc-engine) using evolutionary algorithms. This project will become public after the competition.  
+  Developing an AI-powered Pokémon battle agent for the [VGC AI Competition 2025](https://gitlab.com/DracoStriker/pokemon-vgc-engine) using evolutionary algorithms to improve battle behavior through generational evolution. This project will become public after the competition.    
+
 ---
+
 
 <div style="display:flex; justify-content:center; gap:2rem; align-items:flex-start;">
   <img src="https://github-readme-stats.vercel.app/api?username=milannal1m&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=contribs&rank_icon=github&hide_border=true"
