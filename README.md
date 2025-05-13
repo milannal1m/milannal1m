@@ -2,29 +2,22 @@
 
 🚀 **Passionate about Software Development**  
 
-🎓 Currently working on multiple tech projects and studying Computer Science until October 2025.  
+🎓 Currently working on multiple tech projects and graduating in Computer Science in October 2025.  
 
 🌍 Always eager to learn, build, and contribute to the tech community.  
 
 ---
 
-### 🛠️ **What I'm Working On**
+### ⭐ **My favourite projects**
 
 **📸 EOLVision**  
   Built [EOLVision](https://github.com/milannal1m/EOLVision), a CNN model for end-of-line image classification.  
 
 **🍏 MealPlanner**  
-  Developed [MealPlanner](https://github.com/milannal1m/MealPlanner), an iOS app designed to simplify meal planning. Currently working on adding [synchronization features](https://github.com/milannal1m/MealPlannerSync) between devices using Docker.  
+  Developed [MealPlanner](https://github.com/milannal1m/MealPlanner), an iOS app designed to simplify meal planning. Currently working on adding  synchronization features ([Proof of Concept](https://github.com/milannal1m/MealPlannerSync)) between devices using Docker.  
 
 **🐉 EvoTrainer**  
-  Developing an AI-powered Pokémon battle agent for the [VGC AI Competition 2025](https://gitlab.com/DracoStriker/pokemon-vgc-engine) using evolutionary algorithms to improve battle behavior through generational evolution. This project will become public after the competition.  
-
-**🌐 Internal Switch Dashboard website**  
-  Developed a website that allows users to edit switch port VLAN configurations via SNMP. Built with React for the frontend and Flask for the backend.  
-
-**🔒 Internal Cybersecurity Projects**  
-  Developed a cybersecurity project focusing on system integrity and compliance checks, including extending Checkmk with an Internet Compliance Check.  
-
+  Developing an AI trained Pokémon battle agent for the [VGC AI Competition 2025](https://gitlab.com/DracoStriker/pokemon-vgc-engine) using evolutionary algorithms. This project will become public after the competition.  
 ---
 
 <div style="display:flex; justify-content:center; gap:2rem; align-items:flex-start;">
