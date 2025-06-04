@@ -1,13 +1,5 @@
 ## 👋 Hi, I'm Milan
 
-🚀 **Passionate about Software Development**  
-
-🎓 Currently working on multiple tech projects and graduating in Computer Science in October 2025.  
-
-🌍 Always eager to learn, build, and contribute to the tech community.  
-
----
-
 ### ⭐ **My favourite Projects**
 
 **📸 EOLVision**  
